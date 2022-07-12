@@ -1,10 +1,1 @@
-[
-  {
-    "package": "OptimalRerandExpDesigns",
-    "oncran": true
-  },
-  {
-    "package": "SeqExpMatch",
-    "oncran": true
-  }
-]
+[]
