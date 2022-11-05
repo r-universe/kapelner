@@ -1,5 +1,9 @@
 [
   {
+    "package": "GreedyExperimentalDesign",
+    "oncran": true
+  },
+  {
     "package": "OptimalRerandExpDesigns",
     "oncran": true
   },
