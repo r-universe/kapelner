@@ -1,23 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "GreedyExperimentalDesign"]
 	path = GreedyExperimentalDesign
 	url = https://github.com/kapelner/greedyexperimentaldesign
-	shallow = true
 	subdir = GreedyExperimentalDesign
-	registered = true
 [submodule "OptimalRerandExpDesigns"]
 	path = OptimalRerandExpDesigns
 	url = https://github.com/kapelner/optimalrerandexpdesigns
-	shallow = true
 	subdir = OptimalRerandExpDesigns
-	registered = true
 [submodule "SeqExpMatch"]
 	path = SeqExpMatch
 	url = https://github.com/kapelner/matching_on_the_fly_designs_r_package_and_paper_repr
-	shallow = true
 	subdir = SeqExpMatch
-	registered = true
