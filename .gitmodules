@@ -11,7 +11,8 @@
 	url = https://github.com/cran/GreedyExperimentalDesignJARs
 [submodule "ICEbox"]
 	path = ICEbox
-	url = https://github.com/cran/ICEbox
+	url = https://github.com/kapelner/icebox
+	subdir = ICEbox
 [submodule "OptimalRerandExpDesigns"]
 	path = OptimalRerandExpDesigns
 	url = https://github.com/kapelner/optimalrerandexpdesigns
