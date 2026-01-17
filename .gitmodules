@@ -22,7 +22,8 @@
 	url = https://github.com/cran/PTE
 [submodule "bartMachine"]
 	path = bartMachine
-	url = https://github.com/cran/bartMachine
+	url = https://github.com/kapelner/bartmachine
+	subdir = bartMachine
 [submodule "bartMachineJARs"]
 	path = bartMachineJARs
 	url = https://github.com/cran/bartMachineJARs
