@@ -19,7 +19,8 @@
 	subdir = OptimalRerandExpDesigns
 [submodule "PTE"]
 	path = PTE
-	url = https://github.com/cran/PTE
+	url = https://github.com/kapelner/pte
+	subdir = PTE
 [submodule "bartMachine"]
 	path = bartMachine
 	url = https://github.com/kapelner/bartmachine
