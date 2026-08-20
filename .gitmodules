@@ -21,6 +21,9 @@
 	path = PTE
 	url = https://github.com/kapelner/pte
 	subdir = PTE
+[submodule "SeqExpMatch"]
+	path = SeqExpMatch
+	url = https://github.com/cran/SeqExpMatch
 [submodule "bartMachine"]
 	path = bartMachine
 	url = https://github.com/kapelner/bartmachine
