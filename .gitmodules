@@ -1,40 +1,8 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/kapelner/kapelner.r-universe.dev
 	branch = HEAD
-[submodule "GreedyExperimentalDesign"]
-	path = GreedyExperimentalDesign
-	url = https://github.com/kapelner/greedyexperimentaldesign
-	subdir = GreedyExperimentalDesign
-[submodule "GreedyExperimentalDesignJARs"]
-	path = GreedyExperimentalDesignJARs
-	url = https://github.com/cran/GreedyExperimentalDesignJARs
-[submodule "ICEbox"]
-	path = ICEbox
-	url = https://github.com/kapelner/icebox
-	subdir = ICEbox
-[submodule "OptimalRerandExpDesigns"]
-	path = OptimalRerandExpDesigns
-	url = https://github.com/kapelner/optimalrerandexpdesigns
-	subdir = OptimalRerandExpDesigns
-[submodule "PTE"]
-	path = PTE
-	url = https://github.com/kapelner/pte
-	subdir = PTE
-[submodule "SeqExpMatch"]
-	path = SeqExpMatch
-	url = https://github.com/cran/SeqExpMatch
-[submodule "bartMachine"]
-	path = bartMachine
-	url = https://github.com/kapelner/bartmachine
-	subdir = bartMachine
-[submodule "bartMachineJARs"]
-	path = bartMachineJARs
-	url = https://github.com/cran/bartMachineJARs
-[submodule "fastLogisticRegressionWrap"]
-	path = fastLogisticRegressionWrap
-	url = https://github.com/kapelner/fastlogisticregressionwrap
-	subdir = fastLogisticRegressionWrap
-[submodule "optDesignSlopeInt"]
-	path = optDesignSlopeInt
-	url = https://github.com/cran/optDesignSlopeInt
+[submodule "EDI"]
+	path = EDI
+	url = https://github.com/kapelner/EDI
+	subdir = R/EDI
