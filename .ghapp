@@ -1,0 +1,10 @@
+{
+  "id": 158016445,
+  "created_at": "2026-08-31T17:11:37.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["ICEbox", "bartMachine", "PTE", "GreedyExperimentalDesign", "EDI"]
+}
