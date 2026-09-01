@@ -10,7 +10,35 @@
 	path = GreedyExperimentalDesign
 	url = https://github.com/kapelner/GreedyExperimentalDesign
 	subdir = GreedyExperimentalDesign
+[submodule "ICEbox"]
+	path = ICEbox
+	url = https://github.com/kapelner/ICEbox
+	subdir = ICEbox
 [submodule "PTE"]
 	path = PTE
 	url = https://github.com/kapelner/PTE
 	subdir = PTE
+[submodule "YARF"]
+	path = YARF
+	url = https://github.com/kapelner/YARF
+	subdir = YARF
+[submodule "YARFJARs"]
+	path = YARFJARs
+	url = https://github.com/kapelner/YARF
+	subdir = YARFJARs
+[submodule "bartMachine"]
+	path = bartMachine
+	url = https://github.com/kapelner/bartMachine
+	subdir = bartMachine
+[submodule "bartMachineJARs"]
+	path = bartMachineJARs
+	url = https://github.com/kapelner/bartMachine
+	subdir = bartMachineJARs
+[submodule "fastLogisticRegressionWrap"]
+	path = fastLogisticRegressionWrap
+	url = https://github.com/kapelner/fastLogisticRegressionWrap
+	subdir = fastLogisticRegressionWrap
+[submodule "optDesignSlopeInt"]
+	path = optDesignSlopeInt
+	url = https://github.com/kapelner/optDesignSlopeInt
+	subdir = optDesignSlopeInt
