@@ -6,3 +6,11 @@
 	path = EDI
 	url = https://github.com/kapelner/EDI
 	subdir = R/EDI
+[submodule "GreedyExperimentalDesign"]
+	path = GreedyExperimentalDesign
+	url = https://github.com/kapelner/GreedyExperimentalDesign
+	subdir = GreedyExperimentalDesign
+[submodule "PTE"]
+	path = PTE
+	url = https://github.com/kapelner/PTE
+	subdir = PTE
